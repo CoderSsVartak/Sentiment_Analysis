@@ -18,3 +18,4 @@ The code also uses pre-trained Embedded layer which reduces the number of traina
 
 Version 1:
 The model uses 3 Uni-directional Recurrent layers and 2 Dense Layers with 'relu' activation function for hidden layers and 'sigmoid' for the output layer 
+The model outputs approximately 80% accuracy on the training data and 77% accuracy on the test data
